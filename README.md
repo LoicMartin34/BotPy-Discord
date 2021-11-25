@@ -33,5 +33,7 @@ It is also possible to make the bot join the current voice channel and let him p
 *mute Member X/ unmute Member* : It is possible to mute the member selected during X seconds or endlessly if X isn't indicate. You can also revoke the mute with the unmute command.  
 *deaf Member X/ deaf Member* : Same operation than mute command, but deaf the member.  
 *allmute / allunmute* : This command can mute/unmute all the people in the voice channel except the author of the command.  
-*kick Member* : 
-*kickServer Member* : 
+*kick Member* :  
+*kickServer Member* :  
+
+3. **Wheel of fortune**
