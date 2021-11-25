@@ -2,7 +2,7 @@
 **BotPy** is a Discord bot developed with Python.
 
 ## Help command
-This command **!help** allows you to see signature and descriptions of commands.  
+The command **!help** allows you to see signature and descriptions of commands.  
 _!help_ shows you the entire list of commands of each section (Admin, Moderation, Musiques, ...)  
 _!help section_ presents the commands of the section wanted  
 _!help ban_ explain you how to use this command  
