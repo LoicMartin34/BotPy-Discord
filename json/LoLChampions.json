@@ -1,0 +1,1165 @@
+[
+    {
+        "id": 0,
+        "name": "Aatrox",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Ahri",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Akali",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Akshan",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Alistar",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Amumu",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Anivia",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Annie",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Aphelios",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Ashe",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "AurelionSol",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Azir",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Bard",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Blitzcrank",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Brand",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Braum",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Caitlyn",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Camille",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Cassiopeia",
+        "roles": [
+            "TOP",
+            "MIDDLE",
+            "ADC"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Chogath",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Corki",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Darius",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Diana",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "DrMundo",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Draven",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Ekko",
+        "roles": [
+            "JUNGLE",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Elise",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Evelynn",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Ezreal",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Fiddlesticks",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Fiora",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Fizz",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Galio",
+        "roles": [
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Gangplank",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Garen",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Gnar",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Gragas",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Graves",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Gwen",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Hecarim",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Heimerdinger",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Illaoi",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Irelia",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Ivern",
+        "roles": [
+            "JUNGLE",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Janna",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "JarvanIV",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Jax",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Jayce",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Jhin",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Jinx",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Kaisa",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Kalista",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Karma",
+        "roles": [
+            "TOP",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Karthus",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Kassadin",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Katarina",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Kayle",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Kayn",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Kennen",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Khazix",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Kindred",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Kled",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "KogMaw",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Leblanc",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "LeeSin",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Leona",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Lillia",
+        "roles": [
+            "TOP",
+            "JUNGLE",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Lissandra",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Lucian",
+        "roles": [
+            "TOP",
+            "MIDDLE",
+            "ADC"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Lulu",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Lux",
+        "roles": [
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Malphite",
+        "roles": [
+            "TOP",
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Malzahar",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Maokai",
+        "roles": [
+            "TOP",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "MasterYi",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "MissFortune",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Mordekaiser",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Morgana",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Nami",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Nasus",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Nautilus",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Neeko",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Nidalee",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Nocturne",
+        "roles": [
+            "TOP",
+            "JUNGLE",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Nunu",
+        "roles": [
+            "JUNGLE",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Olaf",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Orianna",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Ornn",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Pantheon",
+        "roles": [
+            "TOP",
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Poppy",
+        "roles": [
+            "TOP",
+            "JUNGLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Pyke",
+        "roles": [
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Qiyana",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Quinn",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Rakan",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Rammus",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 95,
+        "name": "RekSai",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Rell",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Renekton",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Rengar",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Riven",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Rumble",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Ryze",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Samira",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Sejuani",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Senna",
+        "roles": [
+            "ADC",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Seraphine",
+        "roles": [
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Sett",
+        "roles": [
+            "TOP",
+            "JUNGLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Shaco",
+        "roles": [
+            "JUNGLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Shen",
+        "roles": [
+            "TOP",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Shyvana",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Singed",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Sion",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Sivir",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Skarner",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Sona",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Soraka",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Swain",
+        "roles": [
+            "MIDDLE",
+            "ADC",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 117,
+        "name": "Sylas",
+        "roles": [
+            "TOP",
+            "JUNGLE",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Syndra",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 119,
+        "name": "TahmKench",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Taliyah",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Talon",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Taric",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Teemo",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Thresh",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Tristana",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Trundle",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Tryndamere",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 128,
+        "name": "TwistedFate",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Twitch",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Udyr",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Urgot",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Varus",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Vayne",
+        "roles": [
+            "TOP",
+            "ADC"
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Veigar",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Velkoz",
+        "roles": [
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Vex",
+        "roles": [
+            "TOP",
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 137,
+        "name": "Vi",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Viego",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 139,
+        "name": "Viktor",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Vladimir",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 141,
+        "name": "Volibear",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Warwick",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Wukong",
+        "roles": [
+            "TOP",
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Xayah",
+        "roles": [
+            "ADC"
+        ]
+    },
+    {
+        "id": 145,
+        "name": "Xerath",
+        "roles": [
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 146,
+        "name": "XinZhao",
+        "roles": [
+            "JUNGLE"
+        ]
+    },
+    {
+        "id": 147,
+        "name": "Yasuo",
+        "roles": [
+            "TOP",
+            "MIDDLE",
+            "ADC"
+        ]
+    },
+    {
+        "id": 148,
+        "name": "Yone",
+        "roles": [
+            "TOP",
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Yorick",
+        "roles": [
+            "TOP"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Yuumi",
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 151,
+        "name": "Zac",
+        "roles": [
+            "TOP",
+            "JUNGLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 152,
+        "name": "Zed",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 153,
+        "name": "Ziggs",
+        "roles": [
+            "MIDDLE",
+            "ADC"
+        ]
+    },
+    {
+        "id": 154,
+        "name": "Zilean",
+        "roles": [
+            "MIDDLE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "id": 155,
+        "name": "Zoe",
+        "roles": [
+            "MIDDLE"
+        ]
+    },
+    {
+        "id": 156,
+        "name": "Zyra",
+        "roles": [
+            "SUPPORT"
+        ]
+    }
+]
