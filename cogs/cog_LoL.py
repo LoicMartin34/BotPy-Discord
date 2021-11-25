@@ -14,8 +14,16 @@ class LoL(commands.Cog):
 
     @commands.command()
     async def lolPicker(self, ctx, param=None, *args):
-        """Test lol
-        Example : lolPicker TOP
+        """Cette commande permet plusieurs utilisations
+
+        1. Sélectionne un champion et y attribue un rôle cohérent à ce dernier
+        Exemple: !lolPicker --> Malphite TOP
+
+        2. Sélectionne un champion aléatoirement en fonction du rôle souhaité
+        Exemple: !lolPicker JUNGLE --> Volibear
+
+        3. Attribue aléatoirement un rôle et un champion à l'ensemble des joueurs indiqués
+        Exemple !lolPicker Joueur1 Joueur2 --> Joueur1 joue DrMundo TOP - Joueur2 joue Vi MIDDLE
         """
         with open("json/LoLChampions.json") as f:
             data = json.load(f)

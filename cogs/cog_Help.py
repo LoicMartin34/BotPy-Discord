@@ -8,7 +8,7 @@ from discord.ext.commands.core import Group
 
 class MyHelpCommand(commands.MinimalHelpCommand):
     def get_command_signature(self, command):
-        return f"{self.context.clean_prefix}{command.qualified_name}{command.signature}"
+        return f"!{command.qualified_name}{command.signature}"
 
     async def _help_embed(self, title: str, description: Optional[str] = None, mapping: Optional[str] = None, command_set: Optional[Set[commands.Command]] = None):
         embed = Embed(title=title)
@@ -18,8 +18,8 @@ class MyHelpCommand(commands.MinimalHelpCommand):
             filtered = await self.filter_commands(command_set, sort = True)
             for command in filtered:
                 embed.add_field(
-                    name=command, 
-                    value = command.short_doc or "...", 
+                    name = self.get_command_signature(command), 
+                    value = command.help or "...", 
                     inline = False
                 )
         elif mapping:
