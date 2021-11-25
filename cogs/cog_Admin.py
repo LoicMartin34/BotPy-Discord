@@ -14,6 +14,8 @@ class Admin(commands.Cog):
     @commands.command()
     @commands.has_permissions(administrator = True)
     async def serverInfo(self, ctx):
+        """Permet d'obtenir les différentes informations du serveur
+        """
         server = ctx.guild
         serverName = server.name
         numberTextChannels = len(server.text_channels)
@@ -27,6 +29,10 @@ class Admin(commands.Cog):
     @commands.command()
     @commands.has_permissions(administrator = True)
     async def getInfo(self, ctx, info):
+        """Permet d'obtenir l'information souhaitée sur le serveur
+
+        Exemple: !getInfo memberCount/numberOfChannels/name
+        """
         server = ctx.guild
         if info == "memberCount":
             await ctx.send(server.member_count)
@@ -41,6 +47,10 @@ class Admin(commands.Cog):
     @commands.command()
     @commands.has_permissions(manage_messages = True)
     async def clear(self, ctx, number_of_messages:int):
+        """Supprimer les X derniers messages du channel écrit actuel
+
+        Exemple: !clear 10
+        """
         messages = await ctx.channel.history(limit=number_of_messages + 1).flatten()
         for message in messages:
             await message.delete()
@@ -50,6 +60,10 @@ class Admin(commands.Cog):
     @commands.command()
     @commands.has_permissions(ban_members = True)
     async def ban(self, ctx, user:discord.User, *, reason = "Aucune raison donnée"):
+        """Bannir le membre indiqué du serveur pour une durée indéfinie et selon la raison donnée
+
+        Exemple: !ban @Membre01 Spam sur le channel écrit
+        """
         await ctx.guild.ban(user, reason = reason)
         embedBan = discord.Embed(title = "**Banissement**", color = 0xf44336, url = "https://fr.wikipedia.org/wiki/Respect")
         embedBan.set_thumbnail(url = "https://emoji.gg/assets/emoji/3283-pepe-banned.png")
@@ -62,8 +76,12 @@ class Admin(commands.Cog):
 
     @commands.command()
     @commands.has_permissions(ban_members = True)
-    async def unban(self, ctx, user, *reason):
-    #user sous la forme username#tag
+    async def unban(self, ctx, user, *, reason = "Aucune raison donnée"):
+        """Permet de débannir l'utilisateur du serveur
+
+        Exemple: !unban @Membre01 C'était son petit frère
+        """
+        #user sous la forme username#tag
         reason = " ".join(reason)
         username, tag = user.split('#')
         bannedUsers = await ctx.guild.bans()
@@ -79,6 +97,8 @@ class Admin(commands.Cog):
     @commands.command()
     @commands.has_permissions(ban_members = True)
     async def getBanList(self, ctx):
+        """Permet d'obtenir la liste des membres bannis       
+        """
         banList = []
         bans = await ctx.guild.bans()
         for ban in bans:
