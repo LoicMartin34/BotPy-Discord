@@ -1,6 +1,12 @@
 # BotPy-Discord
 **BotPy** is a Discord bot developed with Python.
 
+##Help command
+This command **!help** allows you to see signature and descriptions of commands.  
+_!help_ shows you the entire list of commands of each section (Admin, Moderation, Musiques, ...)  
+_!help section_ presents the commands of the section wanted  
+_!help ban_ explain you how to use this command  
+
 ## Admin and moderation commands
 He allows multiples admin commands like ban, unban and kick from the server. We got also moderation commands like mute, allmute, deaf and kick from the voice channel.
 
