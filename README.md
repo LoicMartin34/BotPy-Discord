@@ -21,7 +21,7 @@ It is also possible to make the bot join the current voice channel and let him p
 
 
 
-### List of the commands and there arguments :
+### List of the commands and their arguments :
 
 1. **Cogs are used to allow easier developement, it's possible to modify some functions without disconnect the bot.**
 
