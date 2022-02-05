@@ -1,5 +1,5 @@
-# BotPy-Discord
-**BotPy** is a Discord bot developed with Python.
+# PyBot-Discord
+**PyBot** is a Discord bot developed with Python.
 
 ## Help command
 The command **!help** allows you to see signature and descriptions of commands.  
